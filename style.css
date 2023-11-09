@@ -83,3 +83,9 @@ main > ol{
     margin-right: 10px;
     font-size: 20px;
 }
+
+h2{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
